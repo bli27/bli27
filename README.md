@@ -3,4 +3,5 @@ Bryan Li's Resume
 
 - Education: Northeastern University (Khoury College of Computer Science) 
 - Field of Study: Computer Science
-- Student 
+- Student
+- Expected Graduation Date: 2027
