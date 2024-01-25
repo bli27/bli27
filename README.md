@@ -5,5 +5,4 @@ Bryan Li's Resume
 - Field of Study: Computer Science
 - Student
 - 2027
-======
 
