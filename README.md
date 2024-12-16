@@ -1,8 +1,5 @@
 ### Hi there 👋
-Bryan Li's Resume
+I am an aspiring Software Engineer that is passionate about cutting edge technology and utilizing tools to create platforms that can help benefit my community. Throughout my time as a student, I’ve developed a strong understanding of algorithms, data structures, software development and object oriented programming. I'm open for co-ops / internship opportunities!
 
-- Education: Northeastern University (Khoury College of Computer Science) 
-- Field of Study: Computer Science
-- Student
-- 2027
+Feel free to reach out at li.brya@northeastern.edu or https://www.linkedin.com/in/bryanli27/
 
